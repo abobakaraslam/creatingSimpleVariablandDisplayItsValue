@@ -1,0 +1,2 @@
+# creatingSimpleVariablandDisplayItsValue
+JavaScript and React
